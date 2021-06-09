@@ -1,0 +1,20 @@
+.Header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  background-color: cadetblue;
+  color: white;
+  width: 100%;
+}
+
+.Header h1 {
+  font-size: 64px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Header h2 {
+  font-size: 38px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
